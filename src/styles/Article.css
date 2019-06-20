@@ -1,0 +1,13 @@
+h2.Article {
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 0 0 black;
+}
+
+p.Article {
+    background-color: rgb(245, 245, 245);
+    padding: 15px 15px;
+    font-style: italic;
+}
